@@ -1,4 +1,4 @@
-package com.practice.sample.exception;
+package com.domain.practice.exception;
 
 public class ConvertException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package com.practice.sample.converter;
+package com.domain.practice.converter;
 
 import javax.persistence.AttributeConverter;
 import javax.persistence.Converter;

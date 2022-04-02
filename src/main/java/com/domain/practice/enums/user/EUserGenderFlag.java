@@ -1,4 +1,4 @@
-package com.practice.sample.converter;
+package com.domain.practice.converter;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -8,8 +8,8 @@ import java.util.Arrays;
 @AllArgsConstructor
 @Getter
 public enum EUserGenderFlag {
-    MAN("남자", "M"),
-    WOMEN( "여자", "W");
+    MAN("남성", "M"),
+    WOMEN( "여성", "W");
 
     private String description;
     private String code;
