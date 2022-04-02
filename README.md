@@ -4,7 +4,7 @@
 
 - 2개 이상의 값으로 구성된 컬럼의 경우 접미어는 “_flag”를 사용한다.
     - ex)point_flag
-- true, flase 값으로 구성될 경우 접두어를 “is_”를 사용한다.
+- true, false 값으로 구성될 경우 접두어를 “is_”를 사용한다.
     - ex) is_main
 
   ![2](images/2.png)
