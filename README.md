@@ -1,4 +1,4 @@
-# Springboot-practice 에서 사용하는 Enum, Entity, Converter 정의 
+# Springboot-practice 에서 사용하는 Enum, Entity, Converter 
 
 ## 생성 규칙
 
