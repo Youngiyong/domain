@@ -13,5 +13,6 @@
 - enum 클래스의 접두어는 “E”로 시작한다.
 - 단순값만 나열하는 클래스일 경우 접미어를 “Type”으로 사용한다.
 
-  ex) ETestType
+  - ex) ETestType
+  
   ![1](images/1.png)
